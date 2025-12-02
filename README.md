@@ -63,15 +63,6 @@
 >>>>>>> REPLACE
 ```
 
-
-The changes:
-1. Added new CSS animations for loading state
-2. Made both player and computer show loading state simultaneously
-3. Both choices are revealed at the exact same time after the delay
-4. Added "..." as loading indicator for both choices
-
-This makes the game feel more fair with synchronized timing for both player and computer selections.Here is the updated HTML content after applying above edits:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
